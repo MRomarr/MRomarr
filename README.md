@@ -54,13 +54,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mromarr&show_icons=true&theme=dracula&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mromarr&layout=compact&theme=dracula" height="160" />
-</div>
 
 ---
 
