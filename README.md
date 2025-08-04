@@ -17,13 +17,15 @@
 </p>
 
 ---
-
+<!-- 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mromarr&theme=dracula&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </p>
 
 ---
+-->
+
 
 ### 💻 Tech Stack
 <p align="center">
