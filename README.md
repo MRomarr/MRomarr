@@ -31,10 +31,6 @@
 <p align="center">
   <a href="https://dotnet.microsoft.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/> 
-  </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/> 
-  </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> 
   </a>
